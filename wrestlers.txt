@@ -1,0 +1,8 @@
+Triple H,100,90,255,60
+John Cena,90,115,250,90
+Randy Ortan,80,105,250,70
+The Rock,70,100,260,75
+The Great Khali,40,120,320,50
+Undertaker,65,110,300,60
+Rey Mysterio,60,80,175,120
+Brock Lesner,60,110,286,70
